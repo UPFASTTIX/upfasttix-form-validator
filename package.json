@@ -1,0 +1,26 @@
+{
+  "name": "upfasttix-form-validator",
+  "version": "1.0.0",
+  "description": "UPFASTTIX — AI-like smart form validator that auto-detects fields and applies strong validation rules (email, phone, password, name, url, number). Configurable and lightweight.",
+  "keywords": [
+    "upfasttix",
+    "form",
+    "validator",
+    "pass"
+  ],
+  "homepage": "https://github.com/UPFASTTIX/upfasttix-form-validator#readme",
+  "bugs": {
+    "url": "https://github.com/UPFASTTIX/upfasttix-form-validator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UPFASTTIX/upfasttix-form-validator.git"
+  },
+  "license": "MIT",
+  "author": "UPFASTTIX",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

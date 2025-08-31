@@ -35,7 +35,7 @@ npm install upfasttix-form-validator
 Or for local development:  
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/UPFASTTIX/upfasttix-form-validator.git
 cd upfasttix-form-validator
 npm link
 ```

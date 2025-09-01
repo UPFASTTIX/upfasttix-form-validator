@@ -32,14 +32,6 @@
 npm install upfasttix-form-validator
 ```
 
-Or for local development:  
-
-```bash
-git clone https://github.com/UPFASTTIX/upfasttix-form-validator.git
-cd upfasttix-form-validator
-npm link
-```
-
 ---
 
 ## 🧪 Usage
@@ -108,28 +100,6 @@ const { validate } = require("upfasttix-form-validator");
 - Entropy scoring for strong passwords  
 - Regex + RFC-compliant validation  
 - Input sanitization to prevent injection attacks  
-
----
-
-## 🛠 Development Setup
-
-```bash
-# Clone the project
-git clone https://github.com/UPFASTTIX/upfasttix-form-validator.git
-cd upfasttix-form-validator
-
-# Install dependencies
-npm install
-
-# Link locally
-npm link
-
-# Test in another project
-mkdir test-upfasttix
-cd test-upfasttix
-npm init -y
-npm link upfasttix-form-validator
-```
 
 ---
 
